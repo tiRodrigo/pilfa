@@ -39,6 +39,7 @@ from .models.alpha import equipa_model
 from .views import nivel_view
 from .views import tecnico_view
 from .views import equipa_view
+from .views import pedido_view
 
 
 
